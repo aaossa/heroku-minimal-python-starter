@@ -1,0 +1,7 @@
+{
+	"name": "Heroku Minimal Python Starter",
+	"description": "A minimal Python app that includes Gunicorn. Ready to deploy to Heroku.",
+	"repository": "https://github.com/aaossa/heroku-minimal-python-starter",
+	"logo": "https://avatars1.githubusercontent.com/u/10425834",
+	"keywords": ["python", "minimal", "gunicorn"]
+}
